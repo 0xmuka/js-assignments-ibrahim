@@ -1,6 +1,6 @@
 
 ---
-> [!note]-  📌 **Deadline: 5 days**
+> note  📌 **Deadline: 5 days**
 >	
 >- All 10 **Mandatory Tasks** must be completed.
   >  
